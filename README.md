@@ -1,0 +1,2 @@
+# Forritunarmal
+Heimaverkefni í forritunarmálum
